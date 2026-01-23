@@ -35,7 +35,6 @@ Since I work with **LLMs** and **Virtualization**, my setup is optimized for per
 * **GPU:** NITRO+ AMD Radeon™ RX 7900 XTX Vapor-X 24GB with two dedicated fans at 3000 RPM
 * **PS:** corsair rm1000x
 * **Storage**: 2x 2TB Crucial P5 Plus NVMe // 1x 1TB WD_BLACK SN770 NVMe
-* 
 ![IMG_20260123_120943](https://github.com/user-attachments/assets/10445672-7f49-4677-af60-b209279a8874)
 
 
