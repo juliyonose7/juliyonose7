@@ -27,13 +27,13 @@ I am focusing my learning milestones over Data Engineering, Deep Learning and qu
 ### ⚡ My Workstation
 
 Since I work with **LLMs** and **Virtualization**, my setup is optimized for performance:
-* **COOLING SOLUTION:** X12 arctic p12 pro a-rgb x12  600 - 3000 RPM paired with the gpu thermal sensor
-* **CPU:** AMD Ryzen 7 7800X3D (8 Cores @ 4.2 GHz) with two fans at 3000 RPM
+* **COOLING SOLUTION:** X12 arctic p12 pro a-rgb x13 // 600 - 3000 RPM paired with the gpu thermal sensor
+* **CPU:** AMD Ryzen 7 7800X3D (8 Cores @ 4.2 GHz)
 * **RAM:** CORSAIR VENGANCE 32 GB at 6000 mhz CL30 
 * **Motherboard:** Gigabyte X670 AORUS ELITE AX
 * **OS:** Ubuntu LTS 22.04 // Kali linux // Windows 11 pro
-* **GPU:** NITRO+ AMD Radeon™ RX 7900 XTX Vapor-X 24GB with two dedicated fans at 3000 RPM
-* **PS:** corsair rm1000x
+* **GPU:** NITRO+ AMD Radeon™ RX 7900 XTX Vapor-X 24GB
+* **PS:** Corsair RM1000x
 * **Storage**: 2x 2TB Crucial P5 Plus NVMe // 1x 1TB WD_BLACK SN770 NVMe
 ![IMG_20260123_120943](https://github.com/user-attachments/assets/10445672-7f49-4677-af60-b209279a8874)
 
