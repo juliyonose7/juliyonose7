@@ -1,4 +1,4 @@
-# Hello, I'm Julian David Cardenas , welcome to my Github 👋
+# Hello, I am Julian , welcome to my Github 👋
 
 ---
 
