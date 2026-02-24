@@ -19,9 +19,9 @@ I am focusing my learning milestones over Data Engineering, Deep Learning and qu
 
 ### Tech Stack
 
-* **Languages:** Java (Advanced), Python (Intermediate), JavaScript, SQL, XML.
-* **Infrastructure & OS:** Linux (Advanced), Network Management, Powershell/Terminal.
-* **Cloud & AI:** Oracle Cloud Infrastructure, AI Vector Search, Generative AI.
+* **Languages:** Java, Python , JavaScript AND  SQL.
+* **Infrastructure & OS:** Linux , Network Management, Powershell.
+* **Cloud & AI:** Oracle Cloud Infrastructure, AI Vector Search, Generative AI, Azure coming soon ( I am about to certify me in AZ-900).
 
 
 ### ⚡ My Workstation
