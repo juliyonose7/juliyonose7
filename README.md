@@ -12,7 +12,7 @@
 
 ###  Backend Developer | Computer Science Enthusiast | Network Technician
 
-Currently I am an **Informatics Engineering** student. I am passionate about creating effective solutions by blending software development with infrastructure and emerging technologies like LLMs.
+Currently I am an **Informatics Engineering** student. I am passionate about creating effective solutions by blending software development with IT infrastructure knowledge and emerging technologies like LLMs.
 
 I am focusing my learning milestones over Data Engineering, Deep Learning and quantum computing.
 
