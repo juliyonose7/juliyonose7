@@ -1,4 +1,4 @@
-# Hello, I am Julian , welcome to my Github 👋
+# Hello, I am Julian , welcome to my Space!
 
 ---
 
@@ -14,7 +14,7 @@
 
 Currently I am an **Informatics Engineering** student. I am passionate about creating effective solutions by blending software development with IT infrastructure knowledge and emerging technologies like LLMs.
 
-I am focusing my learning milestones over Data Engineering, Deep Learning and quantum computing.
+I am focusing my learning milestones over Data Engineering, Deep Learning and Cloud computing.
 
 
 ### Tech Stack
