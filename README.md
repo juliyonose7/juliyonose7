@@ -44,5 +44,5 @@ Since I work with **LLMs** and **Virtualization**, my setup was designed and bui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julicardenas/)  
 [![Web](https://img.shields.io/badge/Web-juliandev.com-black?style=for-the-badge&logo=google-chrome)](https://juliyonose7.github.io/Portafolio-Definitivo/)  
-[![Credly](https://img.shields.io/badge/Credly-Certificaciones-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/julian-david-cardenas-guevara/badges#credly)
+[![Credly](https://img.shields.io/badge/Credly-BADGES-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/julian-david-cardenas-guevara/badges#credly)
 
