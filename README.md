@@ -19,7 +19,7 @@ I am focusing my learning milestones over Data Engineering, Deep Learning and Cl
 
 ### Tech Stack
 
-* **Languages:** Java, Python , JavaScript AND  SQL.
+* **Preferred Technologies:** Java, Python , JavaScript AND  SQL.
 * **Infrastructure & OS:** Linux , Network Management, Powershell.
 * **Cloud & AI:** Oracle Cloud Infrastructure, AI Vector Search, Generative AI, Azure coming soon ( I am about to certify my skills in AZ-900).
 
