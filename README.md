@@ -24,7 +24,7 @@ I am focusing my learning milestones over Data Engineering, Deep Learning and Cl
 * **Cloud & AI:** Oracle Cloud Infrastructure, AI Vector Search, Generative AI, Azure coming soon ( I am about to certify my skills in AZ-900).
 
 
-### ⚡ My Workstation
+### My Workstation
 
 Since I work with **LLMs** and **Virtualization**, my setup was designed and built looking for the best performance:
 * **COOLING SOLUTION:** X12 arctic p12 pro a-rgb x13 // 600 - 3000 RPM paired with the gpu thermal sensor
@@ -40,7 +40,7 @@ Since I work with **LLMs** and **Virtualization**, my setup was designed and bui
 
 
 
-### 🌐 Social
+### Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julicardenas/)  
 [![Web](https://img.shields.io/badge/Web-juliandev.com-black?style=for-the-badge&logo=google-chrome)](https://juliyonose7.github.io/Portafolio-Definitivo/)  
