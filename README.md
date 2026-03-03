@@ -10,7 +10,7 @@
 
 ---
 
-###  Backend Developer | Computer Science Enthusiast | Network Technician
+###  Fullstack Developer | Computer Science Enthusiast | Network Technician
 
 Currently I am an **Informatics Engineering** student. I am passionate about creating effective solutions by blending software development with IT infrastructure knowledge and emerging technologies like LLMs.
 
