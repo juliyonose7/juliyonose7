@@ -10,9 +10,9 @@
 
 ---
 
-###  Fullstack Developer | Computer Science Enthusiast | Network Technician
+### Data Analyst | Computer Science Student |
 
-Currently I am an **Informatics Engineering** student. I am passionate about creating effective solutions by blending software development with IT infrastructure knowledge and emerging technologies like LLMs.
+I am currently  pursuing a degree in  **Informatics Engineering**. I am passionate about creating effective solutions by blending software development with Data analytics.
 
 I am focusing my learning milestones over Data Engineering, Deep Learning and Cloud computing.
 
