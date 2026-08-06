@@ -10,11 +10,11 @@
 
 ---
 
-### Data Analyst | Computer Science Student | Data governance
+### Software Developer | Computer Science Student | Data governance
 
-I am currently  pursuing a degree in  **Informatics Engineering**. I am passionate about creating effective solutions by blending my practical knowledege in software development, Data analytics and data governance.
+I am currently  pursuing a  bachelor's degree in  **Computer Science**. I am passionate about creating effective solutions by blending my practical knowledege in software development, Data analytics and data governance.
 
-I am focusing my learning milestones over Data Engineering, Deep Learning and Cloud computing.
+I am focusing my Career over Data Engineering, Deep Learning and Cloud computing.
 
 
 ### Tech Stack
